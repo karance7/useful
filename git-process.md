@@ -1,4 +1,4 @@
-'# Git Branching Standard Operating Procedure (SOP)
+# Git Branching Standard Operating Procedure (SOP)
 
 ## Introduction
 This document outlines the standard operating procedures for using Git in our development workflow. It covers branch naming conventions, branch flow, commit guidelines, merging strategies, and best practices to ensure consistency, collaboration, and efficiency across the team.
